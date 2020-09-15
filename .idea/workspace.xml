@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6a8eb88-7670-449b-8b4e-fe848390ecd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/wholsale.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1ggFLHvhaauvlXXBxIbfwpMkUCL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.WholsaleKt">
+    <configuration name="CustomerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kikkuapp.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CustomerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <module name="kikkuapp.main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartnerKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <module name="kikkuapp.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PartnerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmithKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kikkuapp.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SmithKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WholsaleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kikkuapp.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WholsaleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Kotlin.PartnerKt" />
+      <item itemvalue="Kotlin.WholsaleKt" />
+      <item itemvalue="Kotlin.SmithKt" />
+      <item itemvalue="Kotlin.CustomerKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.WholsaleKt" />
+        <item itemvalue="Kotlin.CustomerKt" />
+        <item itemvalue="Kotlin.SmithKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a8eb88-7670-449b-8b4e-fe848390ecd7" name="Default Changelist" comment="" />
+      <created>1598528271529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598528271529</updated>
+      <workItem from="1598528277917" duration="3423000" />
+      <workItem from="1598626333442" duration="4273000" />
+      <workItem from="1598938143255" duration="1999000" />
+      <workItem from="1598945375797" duration="1225000" />
+      <workItem from="1598948984939" duration="1351000" />
+      <workItem from="1598950410136" duration="10860000" />
+      <workItem from="1598981684320" duration="3913000" />
+      <workItem from="1599021654636" duration="5582000" />
+      <workItem from="1599107975011" duration="221000" />
+      <workItem from="1599801937114" duration="2382000" />
+      <workItem from="1600057731049" duration="27568000" />
+      <workItem from="1600107298878" duration="215000" />
+      <workItem from="1600107893396" duration="134000" />
+      <workItem from="1600108406343" duration="3673000" />
+      <workItem from="1600142134029" duration="8413000" />
+      <workItem from="1600153663415" duration="69000" />
+      <workItem from="1600158983116" duration="6214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="22" key="#MainKt" timestamp="1600058003474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="22" key="#MainKt/0.0.1366.728@0.0.1366.728" timestamp="1600058003474" />
+    <state x="275" y="22" key="#Notifications" timestamp="1598950009591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1598950009591" />
+    <state x="275" y="0" width="858" height="728" key="#Project_Structure" timestamp="1598950343718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="858" height="728" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1598950343718" />
+    <state x="95" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599805849824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="95" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599805849824" />
+    <state x="412" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1598950267549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1598950267549" />
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599802361663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="147" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1599802361663" />
+    <state x="441" y="216" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598950041956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="216" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1598950041956" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1598950325974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598950325974" />
+    <state width="1323" height="296" key="GridCell.Tab.0.bottom" timestamp="1600166428551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600166428551" />
+    <state width="1323" height="296" key="GridCell.Tab.0.center" timestamp="1600166428551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600166428551" />
+    <state width="1323" height="296" key="GridCell.Tab.0.left" timestamp="1600166428551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600166428551" />
+    <state width="1323" height="296" key="GridCell.Tab.0.right" timestamp="1600166428551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600166428551" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1600107516058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600107516058" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1600107516058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600107516058" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1600107516058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600107516058" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1600107516058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600107516058" />
+    <state x="281" y="87" key="IDE.errors.dialog" timestamp="1600062277069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="87" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1600062277069" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1600163476280">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600163476280" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1600158991258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600158991258" />
+    <state x="274" y="0" width="833" height="728" key="new project wizard" timestamp="1599802403913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="0" width="833" height="728" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1599802403913" />
+    <state x="454" y="67" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1598951539810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="67" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1598951539810" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600147096001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600147096001" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kikkuapp$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1599805958839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kikkuapp$PartnerKt.ic" NAME="PartnerKt Coverage Results" MODIFIED="1599806121192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
